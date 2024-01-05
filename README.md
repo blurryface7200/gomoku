@@ -1,6 +1,8 @@
 # AI-Gomoku-Player
  AI player for the Gomoku Board Game
 
+![image](https://github.com/blurryface7200/gomoku/assets/94574451/0e32f8f1-2c28-499b-abca-025746711653)
+
 
 Developed an AI in Python for the Gomoku Tournament, focusing on the classic board game Gomoku. The game follows the "free-style Gomoku" rules with an 11x11 board, where the first player to achieve five or more stones in a line (including diagonal lines) wins. Special rules like Swap, three-and-three, or four-and-four are not applicable.
 
