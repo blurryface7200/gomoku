@@ -6,7 +6,8 @@
 
 Developed an AI in Python for the Gomoku Tournament, focusing on the classic board game Gomoku. The game follows the "free-style Gomoku" rules with an 11x11 board, where the first player to achieve five or more stones in a line (including diagonal lines) wins. Special rules like Swap, three-and-three, or four-and-four are not applicable.
 
-The AI makes its move based on the result of the minimax function. It aims for the best move by maximizing its own score while minimizing the potential score of its opponent, effectively trying to force a win while preventing the opponent from winning. If the minimax function fails to find a move within the allowed runtime limit (i.e., 5 seconds), the AI makes a random legal move.
+The AI makes its move based on the result of the minimax function. It aims for the best move by maximizing its own score while minimizing the potential score of its opponent, effectively trying to force a win while preventing the opponent from winning. If the minimax function fails to find a move (which can happen if the depth limit 
+is reached), the AI makes a random legal move.
 
 GomokuAgentRand : is a very unintelligent computer player that only makes random, although legal, moves.
 
