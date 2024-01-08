@@ -18,3 +18,8 @@ TO RUN THE GAME: python gomoku.py PLAYER1 PLAYER2
 (where PLAYER1 & PLAYER2 are the AI player directories).
 
 Example: python gomoku.py GomokuAgentRand AI_Agent1
+
+
+https://github.com/blurryface7200/gomoku/assets/94574451/9b540392-d04f-4431-a3b9-16f40c2d8d20
+
+
